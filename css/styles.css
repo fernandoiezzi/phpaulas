@@ -87,6 +87,7 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  
 }
 
 hr {
@@ -340,6 +341,7 @@ button {
 button:focus:not(:focus-visible) {
   outline: 0;
 }
+
 
 input,
 button,
@@ -12194,3 +12196,4 @@ textarea.form-control-lg {
   width: 4rem;
   font-size: 2rem;
 }
+
